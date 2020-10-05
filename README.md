@@ -1,6 +1,6 @@
 <img align="" alt="'s Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Jawschamp&theme=dracula&show_icons=true" />
 
-<img align="left" alt="Jaws's Github Stats" src="https://github-readme-stats-nu-one.vercel.app/api?username=Jawschamp&show_icons=true&hide_border=true" />
+Languages
 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
