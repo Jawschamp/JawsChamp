@@ -10,3 +10,8 @@ Languages
 ### HI I'm Jaws, I'm a Python developer and Fortnite Leaker, I'm working on Project Magma which is chat app and [EZFN](https://ezfn.net)
 
 * Any future projects I write will be in async only
+
+# Dream Projects/Plans
+* Make Project Magma Commercial
+* Become very good at Python <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="20" height="20"/>
+* Write a custom Game Asset Reader 
