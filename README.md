@@ -8,3 +8,5 @@ Languages
 <img src="https://github.com/dcurtis/markdown-mark/blob/master/svg/markdown-mark-solid.svg" alt="markdown" height="40"/>🤣
 
 ### HI I'm Jaws, I'm a Python developer and Fortnite Leaker, I'm working on Project Magma which is chat app and [EZFN](https://ezfn.net)
+
+* Any future projects I write will be in async only
