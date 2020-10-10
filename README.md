@@ -1,6 +1,6 @@
 <img align="" alt="'s Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Jawschamp&theme=dracula&show_icons=true" />
 
-Languages
+# Languages
 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
@@ -8,6 +8,8 @@ Languages
 <img src="https://github.com/dcurtis/markdown-mark/blob/master/svg/markdown-mark-solid.svg" alt="markdown" height="40"/>🤣
 
 ### HI I'm Jaws, I'm a Python developer and Fortnite Leaker, I'm working on Project Magma which is chat app and [EZFN](https://ezfn.net)
+# Things I've Done
+* Made an AimBot in <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="20" height="20"/>
 
 * Any future projects I write will be in async only
 
@@ -15,3 +17,4 @@ Languages
 * Make Project Magma Commercial
 * Become very good at Python <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="20" height="20"/>
 * Write a custom Game Asset Reader 
+
