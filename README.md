@@ -10,6 +10,7 @@
 ### HI I'm Jaws, I'm a Python developer and Fortnite Leaker, I'm working on Project Magma which is chat app and [EZFN](https://ezfn.net)
 # Things I've Done
 * Made an AimBot in <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="20" height="20"/>
+* Made a Memory Reading Module
 
 * Any future projects I write will be in async only
 
