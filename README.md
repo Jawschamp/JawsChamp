@@ -9,8 +9,8 @@
  
 ### HI I'm Jaws, I'm a Python developer who is currenly learning C++ I'm working on Project Magma which is chat app and [EZFN](https://ezfn.net) I write my code in full async.
 # Things I've Done
-* Made an AimBot in <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="20" height="20"/>
-* Made a Memory Reading Module in <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="20" height="20"/>
+* Made an AimBot in Python
+* Made a Memory Reading Module in Python
 
 # Python Frameworks
 * Django <img src="https://cdn.discordapp.com/attachments/631678988582125588/769839141613207572/unknown.png" alt="Django LOGO" width="20" height="20"/>
