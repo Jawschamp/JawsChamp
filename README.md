@@ -18,6 +18,4 @@
 * AIOHTTP <img src="https://docs.aiohttp.org/en/stable/_static/aiohttp-icon-128x128.png" alt="AIOHTTP LOGO" width="20" height="20"/>
 
 # Dream Projects/Plans
-* Make Project Magma Commercial
-* Become very good at Python <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="20" height="20"/>
 * Write a custom Game Asset Reader
